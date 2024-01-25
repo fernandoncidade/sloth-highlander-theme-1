@@ -34,14 +34,5 @@
   "license": "MIT",
   "devDependencies": {
     "vsce": "^1.97.0"
-  },
-	"__metadata": {
-    "id": "2a19a856-5072-6c54-8aaf-9e4b24f4ed72",
-		"publisherDisplayName": "fernandoncidade1",
-		"targetPlatform": "undefined",
-		"updated": false,
-		"isPreReleaseVersion": false,
-		"pinned": false,
-		"preRelease": false
-	}
+  }
 }
