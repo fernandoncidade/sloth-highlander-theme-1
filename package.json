@@ -28,6 +28,11 @@
         "label": "sloth-highlander-theme-1",
         "uiTheme": "vs-dark",
         "path": "./themes/sloth-highlander-theme-1-color-theme.json"
+      },
+      {
+        "label": "sloth-highlander-theme-2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sloth-highlander-theme-2-color-theme.json"
       }
     ]
   },
