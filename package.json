@@ -1,20 +1,18 @@
 {
   "name": "sloth-highlander-theme-1",
+  "version": "0.0.0",
   "displayName": "sloth-highlander-theme-1",
   "description": "Tema para o VS Code inspirado no personagem Sloth do filme The Goonies.",
-  "version": "0.0.1",
   "publisher": "fernandoncidade1",
-  "User ID": "fernandoncidade1",
+  "id": "fernandoncidade1",
+  "license": "MIT",
+  "homepage": "https://github.com/fernandoncidade/sloth-highlander-theme-1",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
-  "icon": "icon.jpg",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fernandoncidade/sloth-highlander-theme-1"},
   "keywords": [
     "theme",
     "sloth",
@@ -22,6 +20,14 @@
     "dark",
     "goonies"
   ],
+  "icon": "icon.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fernandoncidade/sloth-highlander-theme-1"
+  },
+  "bugs": {
+    "url": "https://github.com/fernandoncidade/sloth-highlander-theme-1/issues"
+  },
   "contributes": {
     "themes": [
       {
@@ -36,7 +42,6 @@
       }
     ]
   },
-  "license": "MIT",
   "devDependencies": {
     "vsce": "^1.97.0"
   }
