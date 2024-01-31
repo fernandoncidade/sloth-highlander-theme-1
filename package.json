@@ -5,6 +5,9 @@
   "description": "Tema para o VS Code inspirado no personagem Sloth do filme The Goonies.",
   "publisher": "fernandoncidade1",
   "id": "fernandoncidade1",
+  "author": {
+    "name": "Fernando Nillsson Cidade"
+  },
   "license": "MIT",
   "homepage": "https://github.com/fernandoncidade/sloth-highlander-theme-1",
   "engines": {

@@ -1,5 +1,6 @@
 {
 	"name": "sloth-highlander-theme-1",
+  "author": "Fernando Nillsson Cidade",
 	"colors": {
 		"foreground": "#cccccc",
 		"focusBorder": "#007fd4",
