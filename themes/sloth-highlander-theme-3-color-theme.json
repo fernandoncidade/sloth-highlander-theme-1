@@ -1,7 +1,8 @@
 {
     "name": "sloth-highlander-theme-3",
     "author": "Fernando Nillsson Cidade",
-    "dracula": {
+    "semanticClass": "theme.sloth",
+    "sloth": {
         "base": [
             "#282A36",
             "#F8F8F2",
