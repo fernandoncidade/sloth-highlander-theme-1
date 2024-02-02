@@ -1,6 +1,6 @@
 {
   "name": "sloth-highlander-theme-1",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "displayName": "sloth-highlander-theme-1",
   "description": "Tema para o VS Code inspirado no personagem Sloth do filme The Goonies.",
   "publisher": "fernandoncidade1",
@@ -47,11 +47,6 @@
         "label": "sloth-highlander-theme-3",
         "uiTheme": "vs-dark",
         "path": "./themes/sloth-highlander-theme-3-color-theme.json"
-      },
-      {
-        "label": "sloth-highlander-theme-4",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sloth-highlander-theme-4-color-theme.json"
       }
     ]
   },
